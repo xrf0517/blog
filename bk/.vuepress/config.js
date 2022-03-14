@@ -42,7 +42,7 @@ module.exports = {
       },
       {
         text: 'github',
-        link: 'https://github.com/xueruifang/'
+        link: 'https://github.com/xrf0517/blog'
       },
     ],
     sidebar: {
